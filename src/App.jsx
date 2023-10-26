@@ -8,7 +8,9 @@ function App() {
 
   return (
     <>
-      <h1>hello</h1>
+      <h1>To DO App Using appwrite</h1>
+      <textarea></textarea>
+      <button>Add</button>
     </>
   )
 }
